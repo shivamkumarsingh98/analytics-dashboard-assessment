@@ -1,3 +1,15 @@
+
+# My Dashboard
+Live URL: https://analyticsd.netlify.app/
+Key Insights
+
+# Top Company: Tesla holds a dominant 40% market share.
+EV Growth: Electric vehicle numbers have increased fivefold since 2015.
+Tech Stack: Built using React, Chart.js, and Vite for a robust and efficient frontend experience.
+
+# Explanation
+The data was parsed efficiently using PapaParse, enabling seamless processing of the CSV file. Visualizations were created using Chart.js, providing interactive and dynamic charts. The dashboard was deployed on Vercel, ensuring a scalable and reliable hosting solution. This combination of technologies delivers a high-performance and user-friendly analytics platform.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
